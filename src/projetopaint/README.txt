@@ -1,0 +1,1 @@
+O Padrão MVC (Model View Controller) tem o intuito de separar as classes de interface gráfica (View) das classe que definem o comportamento do objeto (Model). A(s) classe(s) responsável(is) pela comunicação entre a View e as Models são chamadas de Controller. Este padrão aumenta flexibilidade e reuso do código.
